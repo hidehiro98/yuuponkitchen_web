@@ -1,3 +1,7 @@
+.navbar-logo {
+
+}
+
 /* Main navbar */
 .navbar-wagon {
   box-shadow: 0 1px 5px 0 rgba(0,0,0,0.07),0 1px 0 0 rgba(0,0,0,0.03);
@@ -11,6 +15,15 @@
 }
 
 /* Logo */
+.navbar-wagon-brand {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  width: 105px;
+}
+
 .navbar-wagon-brand img {
   height: 50px;
 }
